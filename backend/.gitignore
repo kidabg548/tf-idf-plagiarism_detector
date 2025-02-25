@@ -1,15 +1,20 @@
 # Ignore virtual environment
 env/
+venv/
 
 # Ignore Python cache files
 __pycache__/
 *.pyc
 *.pkl
 *.pyo
-data/output/  
 # Ignore database files
 *.db
+model/
 data/
+*.csv
+*.tsv
+*.json
+*.xlsx
 
 # Ignore model files
 models/*.pkl
