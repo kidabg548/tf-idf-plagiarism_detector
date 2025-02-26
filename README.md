@@ -38,7 +38,8 @@ Clone the project repository to your local machine:
 ```bash
 git clone https://github.com/yourusername/plagiarism_detector.git
 cd plagiarism_detector
-
+cd backend
+```
 ### 2. Install Python dependencies
 
 Make sure you have **Python 3.x** installed. Then, install the required Python packages using **pip**:
@@ -57,6 +58,16 @@ python app/train.py
 
 ```bash
 python app/main.py
+```
+### 4. Open another terminal then
+
+```bash
+cd frontend
+```
+### 4. Run the frontend 
+
+```bash
+npm run dev
 ```
 
 
