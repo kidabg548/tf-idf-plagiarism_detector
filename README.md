@@ -23,8 +23,9 @@ To run this project, you need the following tools installed:
 
 Additionally, make sure to have the following Python libraries installed:
 
-```bash
+```
 pip install -r requirements.txt
+```
 
 ## Setup Instructions
 
@@ -44,15 +45,18 @@ Make sure you have **Python 3.x** installed. Then, install the required Python p
 
 ```bash
 pip install -r app/requirements.txt
+```
 
 ### 3. Train the Model
 
 ```bash
 python app/train.py
+```
 
 ### 4. Run the Application
 
 ```bash
 python app/main.py
+```
 
 
