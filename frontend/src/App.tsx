@@ -11,7 +11,7 @@ const App = () => {
       </main>
 
       <footer className="bg-gray-200 py-4 text-center text-gray-500">
-        <p>© 2023 Plagiarism Detection App</p>
+        <p>© 2025 Plagiarism Detection App</p>
       </footer>
     </div>
   );
